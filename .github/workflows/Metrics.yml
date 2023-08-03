@@ -61,7 +61,7 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198170489055
+          plugin_steam_user: GeoBlackrU
           plugin_wakatime: yes
           plugin_wakatime_days: 30
           plugin_wakatime_languages_other: yes
@@ -69,4 +69,4 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: Geo
+          plugin_wakatime_user: @Geo
