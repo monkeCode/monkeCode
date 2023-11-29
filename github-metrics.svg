@@ -1415,27 +1415,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">nirs travel</span>
-                                <div class="bar" style="width: 53.144000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">66%</span>
+                                <div class="bar" style="width: 55.32%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">69%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">nirs-travel-site</span>
-                                <div class="bar" style="width: 22.031999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">28%</span>
+                                <div class="bar" style="width: 13.719999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">nirs liza</span>
-                                <div class="bar" style="width: 2.5120000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <span class="name">типис</span>
+                                <div class="bar" style="width: 8.223999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">dz git</span>
-                                <div class="bar" style="width: 1.472%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.864%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Test</span>
-                                <div class="bar" style="width: 0.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1445,26 +1445,26 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 68.44%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">86%</span>
+                                <div class="bar" style="width: 63.327999999999996%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">79%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 3.4560000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 10.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 2.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.4719999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git</span>
+                                <div class="bar" style="width: 1.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Bash</span>
                                 <div class="bar" style="width: 1.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
@@ -2000,7 +2000,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Nov 2023, 00:15:24 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 01:17:01 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
