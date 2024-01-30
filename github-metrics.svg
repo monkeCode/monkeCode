@@ -1408,27 +1408,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Test</span>
-                                <div class="bar" style="width: 60.712%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">76%</span>
+                                <div class="bar" style="width: 65.624%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">82%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">unikSite</span>
-                                <div class="bar" style="width: 15.88%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 10.264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Distributed-storage</span>
+                                <div class="bar" style="width: 1.6320000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">titanic</span>
-                                <div class="bar" style="width: 1.376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">rust-test</span>
-                                <div class="bar" style="width: 1.2240000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Distributed-storage</span>
-                                <div class="bar" style="width: 0.8160000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1438,28 +1438,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 31.936%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 32.392%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">40%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 18.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 23.768%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">30%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 8.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.120000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 8.056%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">YAML</span>
-                                <div class="bar" style="width: 4.616%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <span class="name">INI</span>
+                                <div class="bar" style="width: 1.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -1993,7 +1993,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Jan 2024, 00:16:49 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jan 2024, 01:15:53 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
