@@ -1470,8 +1470,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.69272076372315 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">58</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.790871121718378 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">59</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3352</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1479,8 +1479,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.229016786570742 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">31</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.623501199040767 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">32</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/834</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -1514,12 +1514,12 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x20</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x21</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x14</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x13</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Database <span class="count">x9</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x9</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x8</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x8</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x4</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Recursion <span class="count">x4</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x4</span></div>
@@ -1538,7 +1538,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Merge k Sorted Lists</div>
+                            <div class="title">Remove Duplicates from Sorted Array</div>
                             <div class="date">13 Nov 2024</div>
                         </div>
                     </div>
@@ -1547,8 +1547,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Largest Combination With Bitwise AND Greater Than Zero</div>
-                            <div class="date">7 Nov 2024</div>
+                            <div class="title">Merge k Sorted Lists</div>
+                            <div class="date">13 Nov 2024</div>
                         </div>
                     </div>
                 </section>
@@ -1604,7 +1604,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.69746748802191 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.782340862423005 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1944,7 +1944,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Nov 2024, 18:23:09 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2024, 19:26:12 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
