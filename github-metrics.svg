@@ -1405,12 +1405,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">mlflow_test</span>
-                                <div class="bar" style="width: 54.144000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 54.151999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ml_flow test</span>
-                                <div class="bar" style="width: 24.672%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 24.663999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">31%</span>
                             </div>
                             <div class="entry">
@@ -1573,7 +1573,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2025, 00:21:08 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2025, 01:22:26 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
