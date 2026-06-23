@@ -1405,12 +1405,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">game_engine_study</span>
-                                <div class="bar" style="width: 50.03999999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 50.056000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">63%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">opencode</span>
-                                <div class="bar" style="width: 13.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">16%</span>
                             </div>
                             <div class="entry">
@@ -1420,7 +1420,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 2.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
@@ -1435,17 +1435,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 39.808%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 39.816%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">50%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 28.912%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 28.927999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CMake</span>
-                                <div class="bar" style="width: 5.207999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.215999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
@@ -1578,7 +1578,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jun 2026, 00:02:43 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2026, 02:12:29 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
